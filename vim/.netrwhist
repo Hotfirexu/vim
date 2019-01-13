@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/doc.xu/traffic/src'
+let g:netrw_dirhist_2='/Users/doc.xu/traffic'
+let g:netrw_dirhist_3='/Users/doc.xu/.bash_profile'
+let g:netrw_dirhist_4='/Users/doc.xu/Work/osrm_new/osrm-backend'
+let g:netrw_dirhist_5='/Users/doc.xu/.oh-my-zsh'
